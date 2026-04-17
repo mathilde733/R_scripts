@@ -3,6 +3,7 @@
 This repository contains research and coursework scripts focused on mathematical modeling in biology, split into two distinct methodological approaches.
 *Academic Credits: Computational Epidemiology (Universität Bern; Developed for the Autumn 2025 semester) and Classical Models in Biology (Universität of Freiburg; Lab report of Spring 2025).*
 
+___
 ### 1. Computational Epidemiology
 
 Script: `CompEpi_HumanMosquitoDynamics.R` \
@@ -38,6 +39,7 @@ This dual model contains the following underlying assumptions: mosquitoes (vecto
 8. **Handel, A.** [Infectious Disease Epidemiology: A Model-based Approach (IDEMA)](https://andreashandel.github.io/IDEMAbook/vector-borne-transmission-1.html).
 9. **Rivero, A. et al.** (2010). [Insecticide Control of Vector-Borne Diseases: When Is Insecticide Resistance a Problem?](https://doi.org/10.1371/journal.ppat.1001000) *PLoS Pathog.* 6, e1001000.
 
+___
 ### 2. Classical Models in Biology
 
 Script: `classical_modeling.R` \
