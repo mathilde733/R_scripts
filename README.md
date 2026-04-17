@@ -1,10 +1,11 @@
 ## Epidemiological & Biological Modeling in R
 
 This repository contains research and coursework scripts focused on mathematical modeling in biology, split into two distinct methodological approaches.
+*Academic Credits: Computational Epidemiology (Universität Bern; Developed for the Autumn 2025 semester) and Classical Models in Biology (Universität of Freiburg; Lab report of Spring 2025).*
 
 ### 1. Computational Epidemiology
 
-Script: CompEpi_HumanMosquitoDynamics.R \
+Script: `CompEpi_HumanMosquitoDynamics.R` \
 Collaboration with Janosch Imhof, Florence Kurz, Lara Land and Valentin Müller. 
 
 This module explores modern computational approaches to disease spread, specifically focusing on [vector-borne diseases](https://www.who.int/news-room/fact-sheets/detail/vector-borne-diseases) (e.g., Malaria, Dengue).
@@ -39,7 +40,7 @@ This dual model contains the following underlying assumptions: mosquitoes (vecto
 
 ### 2. Classical Models in Biology
 
-Script: report_classical_modeling.R \
+Script: `classical_modeling.R` \
 Collaboration with Florence Kurz.
 
 This module covers fundamental ecological interactions and the mathematical foundations of population dynamics.
