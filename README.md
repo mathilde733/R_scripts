@@ -7,11 +7,11 @@ This repository contains research and coursework scripts focused on mathematical
 Script: CompEpi_HumanMosquitoDynamics.R \
 Collaboration with Janosch Imhof, Florence Kurz, Lara Land and Valentin Müller. 
 
-This module explores modern computational approaches to disease spread, specifically focusing on [vector-borne diseases](https://www.who.int/news-room/fact-sheets/detail/vector-borne- diseases) (e.g., Malaria, Dengue).
+This module explores modern computational approaches to disease spread, specifically focusing on [vector-borne diseases](https://www.who.int/news-room/fact-sheets/detail/vector-borne-diseases) (e.g., Malaria, Dengue).
 
 #### Model Architecture
 
-The baseline mathematical model consists of an SIR model for human population and SI model for vector population. The model equations are adapted from a previous paper written Tang et al., 2023. \
+The baseline mathematical model consists of an SIR model for human population and SI model for vector population. The model equations are adapted from a previous paper written Tang et al., 2023. 
 
 Inspiration Schema: \
 <img src="https://andreashandel.github.io/IDEMAbook/images/vectorborne-schematic.png" alt="Schema" width="500">
@@ -39,12 +39,12 @@ This dual model contains the following underlying assumptions: mosquitoes (vecto
 
 ### 2. Classical Models in Biology
 
-Script: report_classical_modeling.R
+Script: report_classical_modeling.R \
 Collaboration with Florence Kurz.
 
 This module covers fundamental ecological interactions and the mathematical foundations of population dynamics.
 
-<img src="https://andreashandel.github.io/IDEMAbook/images/vectorborne-schematic.png" alt="Schema" width="500">
+<img src="stable_coexistence.png" alt="Schema" width="500">
 
 #### Topics Covered:
 
